@@ -29,7 +29,7 @@ function Home() {
         <div className="container position-relative">
           <h1 className="display-3 fw-bold">Welcome to NGO Hope</h1>
           <p className="lead mb-4">
-            Empowering lives, inspiring hope, and making the world a better place.
+            Empowering life, inspiring hope, and making the world a better place.
           </p>
           <a href="/volunteer" className="btn btn-primary btn-lg shadow">
             Become a Volunteer
